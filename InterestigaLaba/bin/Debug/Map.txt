@@ -1,0 +1,53 @@
+Academgorodok-Zhytomyr-3
+Zhytomyr-Svyatoshin-3
+Svyatoshin-Nivki-2
+Nivki-Beresteyskaya-2
+Beresteyskaya-Shuliavska-3
+Shuliavska-Polytechnical Institute-2
+Polytechnical Institute-Vokzalnaya-3
+Vokzalnaya-University-2
+University-Theatrical-2
+Theatrical-Khreshchatyk-2
+Khreshchatyk-Arsenalna-3
+Arsenalna-Dnieper-2
+Dnieper-Hydropark-3
+Hydropark-Hydropark-3
+Levoberezhnaya-Darnitsa-2
+Darnitsa-Chernigovskaya-2
+Chernigovskaya-Lesnaya-2
+Khreshchatyk-Maidan Nezalezhnosti-0
+Theatrical-Zolotyye vorota-0
+Geroyev Dnepra-Minskaya-2
+Minskaya-Obolon-2
+Obolon-Pochina-3
+Pochina-Taras Shevchenko-3
+Taras Shevchenko-Kontraktovaya ploshchad-2
+Kontraktovaya ploshchad-Pochtovaya ploshchad-2
+Pochtovaya ploshchad-Maidan Nezalezhnosti-2
+Maidan Nezalezhnosti-Ploshchad Lva Tolstogo-2
+Ploshchad Lva Tolstogo-Olimpiyskaya-2
+Olimpiyskaya-Palace Ukraine-2
+Palace Ukraine-Lybedskaya-1
+Lybedskaya-Demyevskaya-2
+Demyevskaya-Goloseevskaya-1
+Goloseevskaya-Vasilkovskaya-2
+Vasilkovskaya-Vistavkovy center-3
+Vistavkovy center-Ippodrom-4
+Ippodrom-Teremki-2
+Ploshchad Lva Tolstogo-Palace of Sports-0
+Syrets-Dorogozhichi-2
+Dorogozhichi-Lukyanovskaya-4
+Lukyanovskaya-Zolotyye vorota-5
+Zolotyye vorota-Palace of Sports-2
+Palace of Sports-Klovska-2
+Klovska-Pechersk-2
+Pechersk-Druzhby narodov-2
+Druzhby narodov-Vydubychi-3
+Vydubychi-Slavutych-7
+Slavutych-Osokorki-2
+Osokorki-Poznyaki-4
+Poznyaki-Kharkovskaya-4
+Kharkovskaya-Vyrlitsa-2
+Vyrlitsa-Boryspil-2
+Boryspil-Chervoniy Khutir-2
+Polytechnical Institute-Nivki-7Vokzalnaya-Minskaya-20

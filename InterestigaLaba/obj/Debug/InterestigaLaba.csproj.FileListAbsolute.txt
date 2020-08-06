@@ -1,0 +1,7 @@
+D:\Прога\2kurs\Laba3.2.0\InterestigaLaba\InterestigaLaba\obj\Debug\InterestigaLaba.csprojAssemblyReference.cache
+D:\Прога\2kurs\Laba3.2.0\InterestigaLaba\InterestigaLaba\obj\Debug\InterestigaLaba.csproj.CoreCompileInputs.cache
+D:\Прога\2kurs\Laba3.2.0\InterestigaLaba\InterestigaLaba\bin\Debug\InterestigaLaba.exe.config
+D:\Прога\2kurs\Laba3.2.0\InterestigaLaba\InterestigaLaba\bin\Debug\InterestigaLaba.exe
+D:\Прога\2kurs\Laba3.2.0\InterestigaLaba\InterestigaLaba\bin\Debug\InterestigaLaba.pdb
+D:\Прога\2kurs\Laba3.2.0\InterestigaLaba\InterestigaLaba\obj\Debug\InterestigaLaba.exe
+D:\Прога\2kurs\Laba3.2.0\InterestigaLaba\InterestigaLaba\obj\Debug\InterestigaLaba.pdb
